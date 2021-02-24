@@ -1,4 +1,4 @@
-### 欢迎访问我的主页 👋
+### 欢迎访问我的主页 👋 👋
 
 <!--
 **mrchenxxx/mrchenxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
