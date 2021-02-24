@@ -1,4 +1,4 @@
-### Hi there 👋
+### 欢迎访问我的主页 👋
 
 <!--
 **mrchenxxx/mrchenxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![TIP](https://github-readme-stats.vercel.app/api?username=mrchenxxx&theme=danger)
+>![TIP](https://github-readme-stats.vercel.app/api?username=mrchenxxx)
