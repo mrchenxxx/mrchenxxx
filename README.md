@@ -1,4 +1,5 @@
 ### 欢迎访问我的主页 👋 👋
+![TIP]()
+希望可以点个关注哟
 
-
-![TIP](https://github-readme-stats.vercel.app/api?username=mrchenxxx)
+![](https://github-readme-stats.vercel.app/api?username=mrchenxxx)
